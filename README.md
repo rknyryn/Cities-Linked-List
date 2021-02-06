@@ -4,4 +4,4 @@
 Şehir ekleme-silme-arama, komşu şehir ekleme-silme işlemleri gerçekleştirilebilir.
 
 ## Cities.txt Dosya Formatı
-`` <Plaka Kodu>,<Şehir Adı>,<Şehir Bölgesi>,<Komşu Şehir Adı>,<Diğer Komşu Şehir Adı>, <Diger Komşu Şehir Adı>,... `` 
+`` <Plaka Kodu>,<Şehir Adı>,<Şehir Bölgesi>,<Komşu Şehir Adı>,<Diğer Komşu Şehir Adı>,... `` 
