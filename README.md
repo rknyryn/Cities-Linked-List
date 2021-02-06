@@ -1,4 +1,4 @@
-# Linked-List-C
+# Cities-Linked-List-C
 Şehirlerin plaka, isim ve bölge bilgilerini çift yönlü olarak; şehirlerin komşu şehirlerini tek yönlü olarak tutan bir C uygulaması.
 Şehir bilgileri "cities.txt" dosyası içerisinden çekiliyor.
 Şehir ekleme-silme-arama, komşu şehir ekleme-silme işlemleri gerçekleştirilebilir.
